@@ -1,0 +1,124 @@
+{
+    "chapters":  [
+                     {
+                         "id":  1,
+                         "title":  "出生",
+                         "file":  "chapters/01.md"
+                     },
+                     {
+                         "id":  2,
+                         "title":  "云很慢",
+                         "file":  "chapters/02.md"
+                     },
+                     {
+                         "id":  3,
+                         "title":  "九尾",
+                         "file":  "chapters/03.md"
+                     },
+                     {
+                         "id":  4,
+                         "title":  "名字",
+                         "file":  "chapters/04.md"
+                     },
+                     {
+                         "id":  5,
+                         "title":  "排挤",
+                         "file":  "chapters/05.md"
+                     },
+                     {
+                         "id":  6,
+                         "title":  "离开",
+                         "file":  "chapters/06.md"
+                     },
+                     {
+                         "id":  7,
+                         "title":  "人间",
+                         "file":  "chapters/07.md"
+                     },
+                     {
+                         "id":  8,
+                         "title":  "魔",
+                         "file":  "chapters/08.md"
+                     },
+                     {
+                         "id":  9,
+                         "title":  "小雪",
+                         "file":  "chapters/09.md"
+                     },
+                     {
+                         "id":  10,
+                         "title":  "人形",
+                         "file":  "chapters/10.md"
+                     },
+                     {
+                         "id":  11,
+                         "title":  "木屑",
+                         "file":  "chapters/11.md"
+                     },
+                     {
+                         "id":  12,
+                         "title":  "魔影",
+                         "file":  "chapters/12.md"
+                     },
+                     {
+                         "id":  13,
+                         "title":  "合击",
+                         "file":  "chapters/13.md"
+                     },
+                     {
+                         "id":  14,
+                         "title":  "石室",
+                         "file":  "chapters/14.md"
+                     },
+                     {
+                         "id":  15,
+                         "title":  "脱困",
+                         "file":  "chapters/15.md"
+                     },
+                     {
+                         "id":  16,
+                         "title":  "失控",
+                         "file":  "chapters/16.md"
+                     },
+                     {
+                         "id":  17,
+                         "title":  "西行",
+                         "file":  "chapters/17.md"
+                     },
+                     {
+                         "id":  18,
+                         "title":  "透透气",
+                         "file":  "chapters/18.md"
+                     },
+                     {
+                         "id":  19,
+                         "title":  "井台",
+                         "file":  "chapters/19.md"
+                     },
+                     {
+                         "id":  20,
+                         "title":  "天刑",
+                         "file":  "chapters/20.md"
+                     },
+                     {
+                         "id":  21,
+                         "title":  "禁足",
+                         "file":  "chapters/21.md"
+                     },
+                     {
+                         "id":  22,
+                         "title":  "道别",
+                         "file":  "chapters/22.md"
+                     },
+                     {
+                         "id":  23,
+                         "title":  "回人间",
+                         "file":  "chapters/23.md"
+                     },
+                     {
+                         "id":  24,
+                         "title":  "被发现",
+                         "file":  "chapters/24.md"
+                     }
+                 ]
+}

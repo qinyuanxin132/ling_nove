@@ -3,7 +3,7 @@
 泠晞的在线阅读站 · 已完结
 
 [点击开始阅读 →](https://qinyuanxin132.github.io/ling_nove/)
-
+- 在线阅读和交互页面由 AI 辅助生成。
 ---
 
 ## 📖 关于这本书
